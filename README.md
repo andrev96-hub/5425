@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestão de Stock de Armazém (StockFlow)
 
 Aplicação de consola em Python, com base de dados SQLite, para o controlo de inventário de um armazém.
@@ -61,3 +62,7 @@ Projeto Final/
 ├── config.py
 ├── README.md
 └── schema.sql
+=======
+# 5425
+Projeto final
+>>>>>>> cf2507cbcd7f5c51667bf0a8aed9f5622bc18d4a
